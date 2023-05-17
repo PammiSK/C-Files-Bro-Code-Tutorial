@@ -1,0 +1,5 @@
+Run C in Command Prompt (CP):
+check for gcc -> gcc --version <or> g++ --version
+change directory in CP: cd /*source code location*/
+compile C file: gcc /*filename*/.c
+run compiled file: /*newly created file name*/.exe
